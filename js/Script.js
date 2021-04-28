@@ -10,3 +10,12 @@ let User= function (name, password) {
 let userObj = new User("evram", "1234");
 console.log(userObj.toString());
 
+
+/*Team-member*/
+function logger() {
+  console.log('My name is Ahmed Sayed');
+}
+
+logger();
+
+
